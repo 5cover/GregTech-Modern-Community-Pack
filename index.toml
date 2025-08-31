@@ -840,11 +840,6 @@ hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "0a52616a687a2815f16640d758d1b85f4f15d4897a169e2fc306b908a3bffe0f"
-metafile = true
-
-[[files]]
 file = "mods/crafting-station-improved.pw.toml"
 hash = "2280f4db67a42c81e6618b7dc30c4bdc598579aeb4be617b968bdc33e66fb1c8"
 metafile = true
