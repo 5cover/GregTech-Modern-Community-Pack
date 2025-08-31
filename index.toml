@@ -830,8 +830,18 @@ hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "0a52616a687a2815f16640d758d1b85f4f15d4897a169e2fc306b908a3bffe0f"
 metafile = true
 
 [[files]]
@@ -852,6 +862,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "bace9ac545c5db24d350a955565157500cdcedc8db6a8e78ff6118d97748eb2a"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
 
 [[files]]
@@ -907,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "91e8719a2b1c6a9b4ee6b3b9658ef5357cc2be66a6dddc6407e4529181902aff"
 metafile = true
 
 [[files]]
@@ -1040,6 +1060,11 @@ hash = "e8ffbf5788712fac841e1bb0bff8969697f99be47d6f1c3f41ebe9ac965016d3"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "0bb674b857580f12bd2c422af10506d98948b65838992fa7fc53c2e597cdbc56"
 metafile = true
@@ -1105,6 +1130,11 @@ hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "dae8fd03abe4ceb053cb365c865a60be3a92aa5f10fa79e6136770f23db64282"
 metafile = true
@@ -1145,6 +1175,11 @@ hash = "c66abcf408ad2d6ffe3fe7b2db9fc08ec2540896011047a58394d467669eef9c"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "c2c3e83475d18055bc23283143d6abeb0af2e881bc1ce7c6c119055b73a9831a"
 metafile = true
@@ -1162,4 +1197,34 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/creative-music.pw.toml"
+hash = "eaf789e3b3f461916702d8540dda4c03bbe48389c7ae2758a374d74ab695b836"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dynamic-surroundings-remastered.pw.toml"
+hash = "659d3ada25476249b3bd2de9de29ccf0e1737ea2081082b1c19dba0bf4642a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "353d439e094a067c199eb744d0a20b0f87cc8dcde937ddc3ee6bd0f183e29a6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "beecc5e172e8fa117b3008e6d85d2182ab504cf73e055cc3bbc27afccc424c79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gregtech-revival-32x.pw.toml"
+hash = "a1c62f71192080fcdb5a43e30873ad3f19603d4120a53a4fa16ff59ba2e8d08c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/water-improved.pw.toml"
+hash = "d3cfd34010bf3adfada6d92d6df6acd71f467ff5bd159eb672c882d3200206a4"
 metafile = true

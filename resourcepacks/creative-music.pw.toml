@@ -1,0 +1,13 @@
+name = "Creative Music"
+filename = "Creative Music.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91ee95b08146b422c19fa2433bcac81bc763a610"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4600920
+project-id = 244728

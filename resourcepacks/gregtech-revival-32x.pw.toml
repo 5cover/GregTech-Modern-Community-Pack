@@ -1,0 +1,13 @@
+name = "GregTech Revival 32x"
+filename = "[ver 0.20] GT Revival 32x 1.19.2-1.20.1-1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "388145cb295a0778deb2af3920c3a53ecfb80804"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6787476
+project-id = 964322

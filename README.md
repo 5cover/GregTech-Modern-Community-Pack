@@ -1,6 +1,8 @@
 # GregTech-Community-Pack-Modern
 
-Repository for the Modern fork of the GregTech Community Modpack - a minecraft modpack for 1.20.1 highlighting and featuring [GregTech Community Edition Unofficial Modern](https://github.com/GregTechCEu/GregTech-Modern).
+This is a fork of GregTech Community Pack Modern, customized for Project 18.
+Additions: Corpse, Configured, Forgematica, Sodium Dynamic Lights, WorldEdit.
+Maintained on the `project18` branch.
 
 ## Playing
 
