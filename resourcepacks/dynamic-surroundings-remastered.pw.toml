@@ -1,6 +1,6 @@
 name = "Dynamic Surroundings Sounds Pack"
 filename = "§6Dynamic§9Surroundings §2R14.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
